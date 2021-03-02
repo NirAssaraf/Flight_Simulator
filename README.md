@@ -1,10 +1,10 @@
 # Flight Simulator Control 
 
-[![Presentation Project](/uml/example.png)](https://youtu.be/rWe9220DOY8)
+[![Presentation Project](/uml/example.png)](https://www.youtube.com/watch?v=nNbbMsqfIF4&t=31s)
 
 Press on the photo so see a video of the project.
 
-This is a project we developed during our advanced software programming course in our 2nd year.
+This is a project we developed during our advanced software programming course in our 3rd year.
 This project helped us to gain a higher level of knowledge in programming, with emphasis on design patterns and programming principles such as SOLID and GRASP, and finally developing our own JavaFX desktop application.
 
 ## Server
@@ -216,4 +216,4 @@ This is done by the Observer Pattern, which binds the different components toget
 
 
 ## Authors
-* **Or Levi** - [LinkedIn](https://www.linkedin.com/in/orlevi13/) & **Eden Shtein** - [LinkedIn](https://www.linkedin.com/in/edenshtein/)
+* **Nir assaraf** - [LinkedIn](https://github.com/NirAssaraf) & **Nadav Assaraf** 
