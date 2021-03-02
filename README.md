@@ -216,4 +216,4 @@ This is done by the Observer Pattern, which binds the different components toget
 
 
 ## Authors
-* **Nir assaraf** - [LinkedIn](https://github.com/NirAssaraf) & **Nadav Assaraf** 
+* **Nir assaraf** & **Nadav Assaraf** 
